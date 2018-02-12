@@ -1,0 +1,7 @@
+"HITB"
+{
+	"base"	"base"
+	"title"	"Hole In The Ball"
+	"maps"	"mg_hitball"
+	"menusystem"	"1"
+}
